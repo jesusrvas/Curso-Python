@@ -21,5 +21,5 @@ print(firstname+" "+lastname) #Se imprime las variables concatenadas con un espa
 print('firstname')            #Se imprime el string fistname
 print('lastname')             #Se imprime el string lastname  
 
-#Semantica 
+#Semantica : Forma corecta de escribir, de manera que tenga sentido y lo pueda entender el programa
 
